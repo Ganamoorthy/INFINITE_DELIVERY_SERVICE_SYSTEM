@@ -56,7 +56,7 @@ Contributions are welcome to enhance functionality, fix bugs, or improve documen
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any questions or support, open an issue in the repository or contact the maintainer at your.email@example.com.
+For any questions or support, open an issue in the repository or contact the maintainer at sivadhasganamoorthy@gmail.com.
 
 
  
